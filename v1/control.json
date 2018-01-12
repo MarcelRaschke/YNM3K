@@ -1,7 +1,7 @@
 {
     "code": 200,
     "data": {
-        "enable": true,
+        "enable": false,
         "maxActivatedDeviceCount": 10,
         "maxActivatedUserCount": 4,
     },
