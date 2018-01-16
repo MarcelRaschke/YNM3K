@@ -2,7 +2,7 @@
     "code": 200,
     "data": {
         "enable": true,
-        "maxActivatedDeviceCount": 5,
-        "maxActivatedUserCount": 3,
+        "maxActivatedDeviceCount": 1,
+        "maxActivatedUserCount": 2,
     },
 }
