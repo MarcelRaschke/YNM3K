@@ -7,7 +7,7 @@
         "grayScaleBase": 5,
         "grayScaleRange": [1],
         "beginVer": "1.2.5",
-        "endVer": "100.0.0",
+        "endVer": null,
         "exceptionVers": [],
     },
 }
