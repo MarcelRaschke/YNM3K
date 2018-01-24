@@ -6,5 +6,8 @@
         "maxActivatedUserCount": 1,
         "grayScaleBase": 5,
         "grayScaleRange": [0, 1, 2, 3, 4],
+        "beginVer": "1.2.3",
+        "endVer": "100.0.0",
+        "exceptionVers": ["1.2.4"],
     },
 }
