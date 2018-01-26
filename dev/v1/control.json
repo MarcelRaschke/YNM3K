@@ -2,8 +2,8 @@
     "code": 200,
     "data": {
         "enable": true,
-        "maxActivatedDeviceCount": 2,
-        "maxActivatedUserCount": 1,
+        "maxActivatedDeviceCount": 3,
+        "maxActivatedUserCount": 2,
         "grayScaleBase": 5,
         "grayScaleRange": [0, 1, 2, 3, 4],
         "beginVer": null,
